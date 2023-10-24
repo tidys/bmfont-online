@@ -44,6 +44,6 @@ jobs:
           # The Gitee repository, like doocs/leetcode
           gitee-repo:  tidys/bmfont-online
           # Which branch to build
-          branch: master # optional, default is master
+          branch: main # optional, default is master
           # Use force https or not
           https: false # optional, default is true
